@@ -1,15 +1,16 @@
-<div id="header" alight="center">
-  <h1>Hi there, I'm Vladimir</h1>
+<div id="header" align="center">
+  <h1>Hello, I'm Vladimir</h1>
+  <h3>Backend developer & 8th grade student</h3>
 </div>
 
-<div id="header" alight="center">
-  <a href="telegram-url">
+<div id="header" align="center">
+  <a href="http://t.me/vlchiz">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </div>
 
 ### About me
-- 📝 Study at the Unicum talent center 
-- 👨‍💻 ML-engineer & Back-End developer
+- 📝 **Study at the Unicum talent center**
+- 👨‍💻 **ML-engineer & BackEnd developer**
 
 ### Languages & Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" width=60 heigth=60/>&nbsp;
@@ -19,3 +20,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" title="Pandas" width=60 heigth=60/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" title="NumPY" width=60 heigth=60/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" title="FastAPI" width=60 heigth=60/>&nbsp;
+
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=default)

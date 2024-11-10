@@ -10,7 +10,8 @@
 
 ### About me
 - 📝 **Study at the Unicum talent center**
-- 👨‍💻 **ML-engineer & BackEnd developer**
+- 🧑 **14 years**
+- 👨‍💻 **Fond of ML, Big Data, Backend development**
 
 ### Languages & Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" width=60 heigth=60/>&nbsp;

@@ -11,7 +11,7 @@
 ### About me
 - 📝 **Study at the Unicum talent center**
 - 🧑 **14 years**
-- 👨‍💻 **Fond of ML, Big Data, Backend development**
+- 👨‍💻 **Fond of ML, Big Data and Backend development**
 
 ### Languages & Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" width=60 heigth=60/>&nbsp;

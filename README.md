@@ -1,6 +1,5 @@
 <div id="header" align="center">
   <h1>Hello, I'm Vladimir</h1>
-  <h3>Backend developer & 8th grade student</h3>
 </div>
 
 <div id="header" align="center">

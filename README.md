@@ -9,7 +9,7 @@
 
 ### About me
 - 📝 **Study at the Unicum talent center**
-- 🧑 **14 years**
+- 🧑 **15 years**
 - 👨‍💻 **Fond of ML, Big Data and Backend development**
 
 ### Languages & Tools

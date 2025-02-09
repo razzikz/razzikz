@@ -7,6 +7,12 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </div>
 
+### About me
+- 📝 **Study at the Unicum talent center**
+- 👨‍💻 **ML-engineer & BackEnd developer**
+- 🧑 **15 years**
+- 👨‍💻 **Fond of ML, Big Data, Backend development**
+
 ### Languages & Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" width=60 heigth=60/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" width=60 heigth=60/>&nbsp;

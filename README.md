@@ -8,7 +8,7 @@
 </div>
 
 ### About me
-- 📝 **Study at the Unicum talent center**
+- 📝 **Study at the Kemerovo talent center**
 - 👨‍💻 **ML-engineer & BackEnd developer**
 - 🧑 **15 years**
 - 👨‍💻 **Fond of ML, Big Data, Backend development**

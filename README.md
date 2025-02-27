@@ -27,5 +27,4 @@ Contact me in
 
 <h3>Stats</h3>
 
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=razzikz)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=razzikz&show_icons=true)

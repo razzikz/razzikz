@@ -22,9 +22,6 @@ Contact me in
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width=55/>
   <img alt="NumPy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" width=65/>
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF3F06?style=for-the-badge&logo=tensorflow&logoColor=white" width=98/>
+  <img alt="TensorFlow" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" width=75/>
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
-
-<h3>Stats</h3>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=razzikz&show_icons=true)

@@ -4,8 +4,10 @@
 
 <p>
 Welcome! I'm Vladimir, begginer developer from 
-<img src="https://cdn-icons-png.flaticon.com/512/197/197408.png" width=14/> 
-<b>Russia, Kemerovo</b>
+<img src="https://cdn-icons-png.flaticon.com/512/197/197408.png" width=15/> 
+<b>Russia, Kemerovo</b>.
+Contact me in
+<a href="https://t.me/vlchiz">telegram</a>
 </p>
 
 <h3>Tools & languages</h3>

@@ -7,7 +7,7 @@ Welcome! I'm begginer developer from
 <img src="https://cdn-icons-png.flaticon.com/512/197/197408.png" width=15/> 
 <b>Russia</b>.
 Contact me in
-<a href="https://t.me/devgit">telegram</a>
+<a href="https://t.me/razzikz">telegram</a>
 </p>
 
 <h3>Tools & languages</h3>
